@@ -1,0 +1,22 @@
+{
+  "test1": {
+    "inputValue": {
+      "hired": {
+        "be": {
+          "to": {
+            "deserve": "I"
+          }
+        }
+      }
+    },
+    "outputValue": {
+      "I": {
+        "deserve": {
+          "to": {
+            "be": "hired"
+          }
+        }
+      }
+    }
+  }
+}
