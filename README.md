@@ -1,1 +1,2 @@
-執行 npm test
+npm install
+npm test
