@@ -1,5 +1,5 @@
 const reverseInputValue = require('./index');
-const data = require('./test.json');
+const data = require('./data.json');
 
 test('inputValue is equal ouputValue', () => {
   const { inputValue, outputValue } = data.test1;
